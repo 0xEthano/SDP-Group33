@@ -183,7 +183,7 @@ A simplified software sequence is expected to be:
 - PCB design.
 - Sensor, motor-control, and electrical integration.
 
-**Jeff**
+**Ethan**
 - Component and part selection.
 - Raspberry Pi operating-system setup.
 - Software development support.
@@ -199,7 +199,7 @@ Although primary responsibilities are divided among team members, hardware and s
 
 The current goal is to have a functional concept prototype completed by approximately December 1.
 
-**Early October — System Planning and Component Selection**
+**Early October: System Planning and Component Selection**
 
 - Finalize overall system architecture.
 - Select Raspberry Pi configuration.
@@ -208,7 +208,7 @@ The current goal is to have a functional concept prototype completed by approxim
 - Begin ordering required components.
 - Research appropriate pretrained image-classification models.
 
-**Mid October — Initial Hardware and Software Development**
+**Mid October: Initial Hardware and Software Development**
 
 - Configure Raspberry Pi operating system.
 - Establish camera functionality.
@@ -217,7 +217,7 @@ The current goal is to have a functional concept prototype completed by approxim
 - Begin evaluating pretrained classification models.
 - Establish basic image-capture and inference pipeline.
 
-**Late October — Subsystem Prototyping**
+**Late October: Subsystem Prototyping**
 
 - Integrate camera, lighting, and object-detection sensor.
 - Test waste-image classification.
@@ -225,7 +225,7 @@ The current goal is to have a functional concept prototype completed by approxim
 - Interface Raspberry Pi with conveyor motor hardware.
 - Determine final two-way or three-way sorting mechanism.
 
-**Early November — Full System Integration**
+**Early November: Full System Integration**
 
 - Combine item detection, image capture, classification, and conveyor control.
 - Build or finalize electrical interconnections.
@@ -233,7 +233,7 @@ The current goal is to have a functional concept prototype completed by approxim
 - Implement LCD/debug output.
 - Test repeated sorting cycles.
 
-**Mid November — Refinement and Testing**
+**Mid November: Refinement and Testing**
 
 - Improve classification reliability.
 - Tune lighting and camera positioning.
@@ -242,7 +242,7 @@ The current goal is to have a functional concept prototype completed by approxim
 - Test multiple waste categories and object types.
 - Implement error handling and uncertain-classification behavior.
 
-**Late November — Final Prototype Preparation**
+**Late November: Final Prototype Preparation**
 
 - Assemble the complete prototype.
 - Perform end-to-end testing.
@@ -250,7 +250,7 @@ The current goal is to have a functional concept prototype completed by approxim
 - Finalize block diagrams and bill of materials.
 - Prepare system demonstration.
 
-**Approximately December 1 — Concept Prototype**
+**Approximately December 1: Concept Prototype**
 
 - Demonstrate functional waste detection, image classification, and automated sorting.
 
