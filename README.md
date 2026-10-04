@@ -1,14 +1,16 @@
 SDP GitHub inital design ideas.
 
-[Motivation](#motivation)
-[Design Goals](#design-goals)
-[Deliverables](#deliverables)
-[System Blocks](#system-blocks)
-[Hardware Requirements](#hardware-requirements)
-[Software Requirements](#software-requirements)
-[Team Member Responsibilities](#team-member-responsibilities)
-[Project Timeline](#project-timeline)
-[References](#references)
+Sections:
+
+-[Motivation](#motivation)
+-[Design Goals](#design-goals)
+-[Deliverables](#deliverables)
+-[System Blocks](#system-blocks)
+-[Hardware Requirements](#hardware-requirements)
+-[Software Requirements](#software-requirements)
+-[Team Member Responsibilities](#team-member-responsibilities)
+-[Project Timeline](#project-timeline)
+-[References](#references)
 
 # Motivation
 
