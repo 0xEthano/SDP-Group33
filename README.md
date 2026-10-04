@@ -1,4 +1,5 @@
-SDP GitHub inital design ideas.
+SDP GitHub inital design ideas. Group 33
+Members: Ethan O'Connor, Avaneesh Mallela, Robert Griffin, Oisin Allen, Princewill Eke, Paul Macdonald 
 
 Sections:
 
