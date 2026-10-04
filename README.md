@@ -163,6 +163,16 @@ A simplified software sequence is expected to be:
 
 # Team Member Responsibilities
 
+**Ethan**
+- Component and part selection.
+- Raspberry Pi operating-system setup.
+- Software development / PCB design / SW integration support.
+
+**Will**
+- Component and part selection.
+- Raspberry Pi operating-system setup.
+- Software development / PCB design / SW integration support.
+
 **Avaneesh**
 - Raspberry Pi software setup.
 - Machine-learning and image-classification development.
@@ -182,16 +192,6 @@ A simplified software sequence is expected to be:
 - Hardware design.
 - PCB design.
 - Sensor, motor-control, and electrical integration.
-
-**Ethan**
-- Component and part selection.
-- Raspberry Pi operating-system setup.
-- Software development support.
-- PCB design and hardware integration support.
-
-**Will**
-- Component and part selection.
-- Software development and integration support.
 
 Although primary responsibilities are divided among team members, hardware and software integration will require collaboration across the entire team, particularly during prototype assembly and system testing.
 
@@ -281,4 +281,4 @@ The following sources are useful starting references for the project:
 7. Adafruit Industries, **IR Breakbeam Sensors**  
    https://learn.adafruit.com/ir-breakbeam-sensors
 
-Additional references will be added once the final image-classification model, motor controller, sensors, and sorting mechanism are selected.
+Additional references will be added once the exact details are sorted out.
