@@ -1,4 +1,5 @@
 SDP GitHub inital design ideas. Group 33
+
 Members: Ethan O'Connor, Avaneesh Mallela, Robert Griffin, Oisin Allen, Princewill Eke, Paul Macdonald 
 
 Sections:
@@ -15,7 +16,7 @@ Sections:
 
 # Motivation
 
-Improper waste sorting is a common problem in public and private waste disposal systems. Recyclable and compostable materials are often placed in general trash, while non-recyclable materials may contaminate recycling streams. Manual sorting is inefficient and impractical for small-scale applications.
+Improper waste sorting is a common problem in public and private waste disposal systems. Recyclable and compostable materials are often placed in general trash, while non-recyclable materials may contaminate recycling streams. Manual sorting is inefficient and impractical for small and large-scale applications.
 
 The goal of this project is to develop a low-cost automated waste sorting prototype capable of identifying and routing common waste items with minimal user interaction. The system will use a Raspberry Pi, camera, sensors, and a conveyor mechanism to detect when an item has been deposited, capture an image of the item, classify it using an offline machine-learning model, and route it toward the appropriate waste category.
 
@@ -255,7 +256,7 @@ The current goal is to have a functional concept prototype completed by approxim
 
 - Demonstrate functional waste detection, image classification, and automated sorting.
 
-Intermediate dates may be adjusted as official senior-design deadlines are established.
+Intermediate dates may be adjusted as we work on the project.
 
 # References
 
